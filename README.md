@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrshalmyd/dotfiles-myd/stargazers">
-    <img src="https://img.shields.io/github/stars/mrshalmyd/dotfiles-myd?color=9370DB&style=for-the-badge" alt="Stars"/>
+  <a href="https://github.com/mrshalmyd/dotfiles-cyc/stargazers">
+    <img src="https://img.shields.io/github/stars/mrshalmyd/dotfiles-cyc?color=9370DB&style=for-the-badge" alt="Stars"/>
   </a>
-  <a href="https://github.com/mrshalmyd/dotfiles-myd/issues">
-    <img src="https://img.shields.io/github/issues/mrshalmyd/dotfiles-myd?color=E6B422&style=for-the-badge" alt="Issues"/>
+  <a href="https://github.com/mrshalmyd/dotfiles-cyc/issues">
+    <img src="https://img.shields.io/github/issues/mrshalmyd/dotfiles-cyc?color=E6B422&style=for-the-badge" alt="Issues"/>
   </a>
-  <a href="https://github.com/mrshalmyd/dotfiles-myd/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/mrshalmyd/dotfiles-myd?color=66CCFF&style=for-the-badge" alt="License"/>
+  <a href="https://github.com/mrshalmyd/dotfiles-cyc/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/mrshalmyd/dotfiles-cyc?color=66CCFF&style=for-the-badge" alt="License"/>
   </a>
   <img src="https://img.shields.io/badge/Shell-100%25-2E8B57?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
 </p>
